@@ -1,0 +1,13 @@
+.shape {
+  height: 0;
+  width: 0;
+  border-bottom: 30px solid #e5e7eb;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index: 0;
+} 
